@@ -4,5 +4,5 @@ This is a demo project created to gain skills in working with Git.
 
 ---
 
-Sergey Nastashchuk
+Sergey Nastashchuk IU4-11
 
